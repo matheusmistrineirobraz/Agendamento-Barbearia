@@ -13,6 +13,7 @@
 - Administrador
 - Cliente
 - Funcionário
+- Metodo de Pagamento
 
 # RF - Requisitos Funcionais
 - RF01 - Cadastro/Exclusão de Clientes;

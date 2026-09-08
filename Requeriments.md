@@ -8,7 +8,9 @@
 - Gerenciamento de serviços;
 - Controle do histórico de acessos de clientes e funcionários;
 - Gerenciamento de planos de cortes.
-- Usuários do Sistema
+
+## Usuários do Sistema
+
 - Administrador;
 - Cliente;
 - Funcionário;

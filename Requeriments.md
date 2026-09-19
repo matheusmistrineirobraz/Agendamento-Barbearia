@@ -9,12 +9,13 @@
 - Controle do histórico de acessos de clientes e funcionários;
 - Gerenciamento de planos de cortes.
 
-## Usuários do Sistema
+## Entidades do Sistema
 
 - Administrador;
 - Cliente;
-- Funcionário;
-- Método de Pagamento.
+- Funcionário(Barbeiro);
+- Método de Pagamento;
+- Plano;
 
 ## RF – Requisitos Funcionais
 

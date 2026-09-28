@@ -253,17 +253,17 @@
             <span>Dashboard</span>
         </a>
 
-        <a href="#" class="menu-item">
+        <a href="/?rota=agendamentos" class="menu-item">
             <i class="bi bi-calendar3"></i>
             <span>Agendamentos</span>
         </a>
 
-        <a href="#" class="menu-item">
+        <a href="/?rota=servicos" class="menu-item">
             <i class="bi bi-grid"></i>
             <span>Serviços</span>
         </a>
 
-        <a href="#" class="menu-item">
+        <a href="/?rota=clientes" class="menu-item">
             <i class="bi bi-people"></i>
             <span>Clientes</span>
         </a>
@@ -273,17 +273,17 @@
             <span>Profissionais</span>
         </a>
 
-        <a href="#" class="menu-item">
+        <a href="/?rota=horarios" class="menu-item">
             <i class="bi bi-clock"></i>
             <span>Horários</span>
         </a>
 
-        <a href="#" class="menu-item">
+        <a href="/?rota=relatorios" class="menu-item">
             <i class="bi bi-bar-chart"></i>
             <span>Relatórios</span>
         </a>
 
-        <a href="..\app\config\edit.php" class="menu-item">
+        <a href="/?rota=configuracoes" class="menu-item">
             <i class="bi bi-gear"></i>
             <span>Configurações</span>
             
